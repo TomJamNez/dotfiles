@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = thomas.jamshidnezhad@gmail.com
+	name = Thomas Jamshidnezhad thomas.jamshidnezhad@gmail.com
